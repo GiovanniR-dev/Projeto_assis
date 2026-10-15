@@ -1,0 +1,10 @@
+===============================================
+RESULTADO DA CRIPTOGRAFIA
+===============================================
+Palavra original: coracao
+Palavra codificada: gswgkle
+SHIFT: 3
+Tipo: 3 - Fibonacci
+Letras: 7
+Sequencia: 1, 1, 2, 3, 5, 8, 13
+Formula do deslocamento: SHIFT + sequencia[i]
